@@ -1,0 +1,112 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Menu
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Informacion General
+    output: web, pdf
+    folderitems:
+
+    - title: Primeros Pasos
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Caracteristicas
+      url: /general_caracteristicas_sitio.html
+      output: web, pdf
+
+    - title: Soporte
+      url: /general_soporte_sitio.html
+      output: web, pdf
+
+  - title: Preguntas Frecuentes
+    output: web
+    folderitems:
+
+    - title: Crear una cuenta
+      url: /faq_como_crear_mi_cuenta.html
+      output: web
+
+    - title: Crear un anuncio
+      url: /faq_como_crear_un_anuncio.html
+      output: web
+
+    - title: Buscar una propiedad
+      url: /faq_como_buscar_una_propiedad.html
+      output: web
+
+    - title: Administrando mis anuncios
+      url: /faq_como_administro_mis_anuncios.html
+      output: web
+
+    - title: Anuncio Desabilitado
+      url: /faq_mi_anuncio_fue_desabilitado_por_contenido.html
+      output: web
+
+    - title: Direccion incorrecta!
+      url: /faq_usar_direccion_correcta.html
+      output: web
+
+  - title: Articulos
+    output: web, pdf
+    folderitems:
+
+    - title: Costos de traspaso - Costa Rica
+      url: /articulos_costarica_costos_traspasos.html
+      output: web, pdf
+
+  - title: Anuncios
+    output: web, pdf
+    folderitems:
+
+    - title: La ubicación importa
+      url: /general_usar_direccion_correcta.html
+      output: web, pdf
+
+    - title: Mas información mas oportunidad
+      url: /general_orden_propiedades_calidad_anuncio.html
+      output: web, pdf
+
+  - title: Busquedas
+    output: web, pdf
+
+    folderitems:
+
+    - title: Anuncios favoritos
+      url: /general_anuncios_favoritos.html
+      output: web
+
+    - title: Busquedas almacenadas
+      url: /faq_que_son_busquedas_almacenadas.html
+      output: web
+
+  - title: Agentes y profesionales
+    output: web, pdf
+
+    folderitems:
+    - title: Perfil Publico
+      url: /general_perfil_publico_profesional.html
+      output: web, pdf
+
+
+
+
