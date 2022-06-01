@@ -73,6 +73,9 @@ entries:
     - title: Costos de traspaso - Costa Rica
       url: /articulos_costarica_costos_traspasos.html
       output: web, pdf
+    - title: ¿Cuáles son las principales ventajas de comprar casa por internet en Costa Rica?
+      url: /articulos-costarica_ventajas_de_comprar_casa_por_internet_en_costa_rica.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
