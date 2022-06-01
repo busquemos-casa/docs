@@ -1,5 +1,5 @@
 ---
-last_updated: April 31, 2022
+last_updated: May 31, 2022
 title: ¿Cuáles son las principales ventajas de comprar casa por internet en Costa Rica?
 tags: [costarica, comprar, internet]
 keywords: comprar, internet, articulos, compra, casa, apartamento
