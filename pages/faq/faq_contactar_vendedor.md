@@ -1,5 +1,5 @@
 ---
-title: ¿Comó contactar al vendedor o arrendatario de la propieda?
+title: ¿Comó contactar al vendedor o arrendatario de la propiedad?
 tags: [contactar, faq]
 keywords: contactar, vendedor, arrendatario, propiedad, faq
 last_updated: June 08, 2022
