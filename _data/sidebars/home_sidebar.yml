@@ -54,6 +54,10 @@ entries:
       url: /faq_como_buscar_una_propiedad.html
       output: web
 
+    - title: Contactar a un anunciante
+      url: /faq_contactar_vendedor.html
+      output: web
+
     - title: Administrando mis anuncios
       url: /faq_como_administro_mis_anuncios.html
       output: web
