@@ -80,6 +80,9 @@ entries:
     - title: ¿Cuáles son las principales ventajas de comprar casa por internet en Costa Rica?
       url: /articulos-costarica_ventajas_de_comprar_casa_por_internet_en_costa_rica.html
       output: web, pdf
+    - title: "¿Qué es mejor para las finanzas personales: comprar o alquilar?"
+      url: /articulos-costarica_que-es-mejor-comprar-o-alquilar.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
