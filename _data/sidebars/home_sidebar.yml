@@ -70,6 +70,10 @@ entries:
       url: /faq_usar_direccion_correcta.html
       output: web
 
+    - title: Eliminar mis datos de datos de Facebook
+      url: /faq_instrucciones_de_como_eliminar_mis_datos_de_facebook.html
+      output: web
+
   - title: Articulos
     output: web, pdf
     folderitems:
