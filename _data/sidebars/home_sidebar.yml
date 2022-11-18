@@ -90,6 +90,9 @@ entries:
     - title: Como la tecnología está cambiando el mundo inmobiliario en América Latina
       url: /articulos-como_la_tecnologia_esta_cambiando_el_mundo_inmobiliario_en_america_latina.html
       output: web, pdf
+    - title: ¿Vale la pena pagar un seguro para mi casa?
+      url: /articulos-vale_la_pena_pagar_un_seguro_para_mi_casa.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
