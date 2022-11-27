@@ -56,3 +56,6 @@ Los honorarios en la actualidad son:
 * 1% sobre el monto por encima de los 30 millones.
 
 
+## Donde puedo conseguir una casa o apartamento que este en venta en Costa Rica y América Latina
+
+En [Busquemos.casa](https://busquemos.casa/cri/es){:target"_blank"} podrá encontrar todo tipo de propiedades en venta y alquiler, solo ingresa en [busquemos.casa](https://busquemos.casa/cri/es){:target"_blank"} para hacer tu búsqueda de tu nuevo hogar.

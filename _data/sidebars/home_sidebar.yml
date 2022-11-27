@@ -96,6 +96,15 @@ entries:
     - title: 7 pasos para priorizar lo que necesitas (y quieres) en un hogar
       url: /articulos-7_pasos_para_priorizar_lo_que_necesitas_y_quieres_en_un_hogar.html
       output: web, pdf
+    - title: Buscando mi primera casa
+      url: /articulos-buscando_mi_primera_casa.html
+      output: web, pdf
+    - title: ¿Cual es el panorama de los bienes y raíces para el 2023?
+      url: /articulos-cual_es_el_panorama_de_los_bienes_raices_para_el_2023.html
+      output: web, pdf
+    - title: Las criptomonedas están revolucionando los mercados inmobiliarios
+      url: /articulos-las_criptomonedas_estan_revolucionando_los_mercados_inmobiliarios.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
