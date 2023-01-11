@@ -105,6 +105,9 @@ entries:
     - title: Las criptomonedas están revolucionando los mercados inmobiliarios
       url: /articulos-las_criptomonedas_estan_revolucionando_los_mercados_inmobiliarios.html
       output: web, pdf
+    - title: Cómo lidiar con vecinos problemáticos en tu comunidad
+      url: /articulos-como-lidiar-con-vecinos-problematicos-en-tu-comunidad.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
