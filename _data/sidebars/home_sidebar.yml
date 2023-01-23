@@ -108,6 +108,9 @@ entries:
     - title: Cómo lidiar con vecinos problemáticos en tu comunidad
       url: /articulos-como-lidiar-con-vecinos-problematicos-en-tu-comunidad.html
       output: web, pdf
+    - title: ¿Cómo Reformar tu Hogar con un Presupuesto Asequible? Expertos Comparten sus secretos.
+      url: /articulos-como_reformar_tu_hogar_con_un_presupuesto_asequible.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
