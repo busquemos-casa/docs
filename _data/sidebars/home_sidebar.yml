@@ -111,6 +111,9 @@ entries:
     - title: ¿Cómo Reformar tu Hogar con un Presupuesto Asequible? Expertos Comparten sus secretos.
       url: /articulos-como_reformar_tu_hogar_con_un_presupuesto_asequible.html
       output: web, pdf
+    - title: ¿Cómo puedo vender mi propiedad con Busquemos casa de forma gratuita?
+      url: /articulos-como_puedo_vender_mi_propiedad_con_busquemos_casa_de_forma_gratuita.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
