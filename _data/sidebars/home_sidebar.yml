@@ -114,6 +114,9 @@ entries:
     - title: ¿Cómo puedo vender mi propiedad con Busquemos casa de forma gratuita?
       url: /articulos-como_puedo_vender_mi_propiedad_con_busquemos_casa_de_forma_gratuita.html
       output: web, pdf
+    - title: ¿Cómo refinanciar un préstamo hipotecario?
+      url: /articulos-como_refinanciar_un_prestamo_hipotecario.html
+      output: web, pdf
 
   - title: Anuncios
     output: web, pdf
